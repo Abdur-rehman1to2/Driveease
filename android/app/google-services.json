@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "490362617791",
+    "firebase_url": "https://drive-ease-1df0c-default-rtdb.firebaseio.com",
+    "project_id": "drive-ease-1df0c",
+    "storage_bucket": "drive-ease-1df0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490362617791:android:767ad1e59ab3b9cae22b0a",
+        "android_client_info": {
+          "package_name": "com.example.semester_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpXk5_prstNklXYz83QWf05hQ5oL0mzKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
